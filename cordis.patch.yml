@@ -1,0 +1,4 @@
+- insert:
+    - id: creator-command
+      name: '@local/dsh-creator-command'
+      config: {}

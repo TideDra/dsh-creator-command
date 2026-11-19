@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Creator 斜杠命令",
+    "description": "添加 /creator 斜杠命令，在任意会话中动态为 Agent 挂载 DSH Creator 模式的技能与工具。",
+    "detail": "README.zh.md"
+  }
+}

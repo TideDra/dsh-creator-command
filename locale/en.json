@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Creator slash command",
+    "description": "Adds the /creator slash command to dynamically equip any agent session with DSH Creator mode skills and tools.",
+    "detail": "README.md"
+  }
+}
